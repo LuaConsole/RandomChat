@@ -8,16 +8,16 @@ local chat = math.random(1, 50)
 
 if chat = 1 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Today is a nice day!", "All")
 if chat = 2 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Endo is a really cool person.", "All")
-if chat = 3 then
-if chat = 4 then
-if chat = 5 then
-if chat = 6 then
-if chat = 7 then
-if chat = 8 then
-if chat = 9 then
-if chat = 10 then
-if chat = 11 then
-if chat = 12 then
+if chat = 3 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Remember, saying bad words on roblox can get your account banned!", "All")
+if chat = 4 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("gg = get good", "All")
+if chat = 5 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ingush is weird", "All")
+if chat = 6 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("retard", "All")
+if chat = 7 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("You're so funny!", "All")
+if chat = 8 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("I am a certified NBA YoungBoy fan!", "All")
+if chat = 9 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("gang!", "All")
+if chat = 10 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("youngboy better", "All")
+if chat = 11 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Who's Endo?", "All")
+if chat = 12 then game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("EndoWare is cool.", "All")
 if chat = 13 then
 if chat = 14 then
 if chat = 15 then
